@@ -13,6 +13,6 @@ export class ButtonComponent implements OnInit {
   constructor() {}
 
   ngOnInit() { 
-    console.log('test')
+    console.log('test 1')
    }
 }
