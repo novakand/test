@@ -10,9 +10,9 @@ import { Component, OnInit } from '@angular/core';
   styles: []
 })
 export class ButtonComponent implements OnInit {
-  constructor() {}
+  constructor() { }
 
-  ngOnInit() { 
-    console.log('test 6 gsggseee')
-   }
+  ngOnInit() {
+    console.log('test 6 gsggseee   s/;;;;;;;;;;;;;;;;;');
+  }
 }
