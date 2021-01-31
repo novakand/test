@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.8](https://github.com/novakand/test/compare/button@0.0.7...button@0.0.8) (2021-01-31)
+
+
+### Bug Fixes
+
+* typo in introduction to user guide ([d2bac60](https://github.com/novakand/test/commit/d2bac6083ce885e9cb849246afdfc07fdcd9e34b))
+* **shell:** double quote params ([fb4d20a](https://github.com/novakand/test/commit/fb4d20a58d1b76d190e1e136a4ff7ebbb69ffcaf))
+
+
+
+
+
 ## [0.0.7](https://github.com/novakand/test/compare/button@0.0.6...button@0.0.7) (2021-01-31)
 
 
