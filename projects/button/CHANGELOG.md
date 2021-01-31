@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.7](https://github.com/novakand/test/compare/button@0.0.6...button@0.0.7) (2021-01-31)
+
+
+### Bug Fixes
+
+* **server:** send cors headers ([f3b9b96](https://github.com/novakand/test/commit/f3b9b965d246a9a46f7e53f0d897724a196c8b8b))
+* **shell:** double quote params ([b7e3c90](https://github.com/novakand/test/commit/b7e3c90937e3e16b4275660e8dcd6d0991aad5ad))
+
+
+
+
+
 ## 0.0.6 (2021-01-30)
 
 
