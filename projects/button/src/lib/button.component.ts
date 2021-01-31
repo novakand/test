@@ -13,6 +13,6 @@ export class ButtonComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log('sss addNcc  ');
+    console.log(' ');
   }
 }
